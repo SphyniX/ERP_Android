@@ -1,0 +1,6 @@
+C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\classes\release
+C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0-f174a9c6734d6758765c1d2d13790984d0d26d80.jar
+C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\gameutil-52fca66fc2c8d9eed70ca0fcc00019d253a6121f.jar
+C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\unity-classes-a190fcd46749948dce96a53eb21e12d2c0032431.jar
+C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0-a10a547227b599e0855c7211ae5e1e6f9a4c02da.jar
+C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\classes-d21bc861dc54c00ea4e61b8941a1b8603504bf94.jar

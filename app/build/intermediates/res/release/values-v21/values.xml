@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/ckxz/Desktop/Android_Proj/app/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="UnityThemeSelector" parent="android:Theme.Material.NoActionBar.Fullscreen">
+</style>
+</resources>

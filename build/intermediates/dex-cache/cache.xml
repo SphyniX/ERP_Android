@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\classes-d21bc861dc54c00ea4e61b8941a1b8603504bf94.jar" />
+    </item>
+    <item
+        jar="C:\Users\ckxz\Desktop\Android_Proj\app\libs\gameutil.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea32c3c28a3d42a4a10c0cae4728d191ea7b5939">
+        <dex dex="C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\gameutil-52fca66fc2c8d9eed70ca0fcc00019d253a6121f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0-a10a547227b599e0855c7211ae5e1e6f9a4c02da.jar" />
+    </item>
+    <item
+        jar="C:\Users\ckxz\Desktop\Android_Proj\app\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3c0381885c353a7cacf0205d9b0272d288b9c93">
+        <dex dex="C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\unity-classes-a190fcd46749948dce96a53eb21e12d2c0032431.jar" />
+    </item>
+    <item
+        jar="F:\BaiduYunDownload\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\ckxz\Desktop\Android_Proj\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0-f174a9c6734d6758765c1d2d13790984d0d26d80.jar" />
+    </item>
+
+</items>
